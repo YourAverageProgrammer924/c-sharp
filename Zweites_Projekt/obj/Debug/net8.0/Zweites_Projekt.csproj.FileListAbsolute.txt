@@ -1,0 +1,14 @@
+C:\Users\alexc\source\repos\Zweites_Projekt\bin\Debug\net8.0\Zweites_Projekt.exe
+C:\Users\alexc\source\repos\Zweites_Projekt\bin\Debug\net8.0\Zweites_Projekt.deps.json
+C:\Users\alexc\source\repos\Zweites_Projekt\bin\Debug\net8.0\Zweites_Projekt.runtimeconfig.json
+C:\Users\alexc\source\repos\Zweites_Projekt\bin\Debug\net8.0\Zweites_Projekt.dll
+C:\Users\alexc\source\repos\Zweites_Projekt\bin\Debug\net8.0\Zweites_Projekt.pdb
+C:\Users\alexc\source\repos\Zweites_Projekt\obj\Debug\net8.0\Zweites_Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\Zweites_Projekt\obj\Debug\net8.0\Zweites_Projekt.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\Zweites_Projekt\obj\Debug\net8.0\Zweites_Projekt.AssemblyInfo.cs
+C:\Users\alexc\source\repos\Zweites_Projekt\obj\Debug\net8.0\Zweites_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\Zweites_Projekt\obj\Debug\net8.0\Zweites_Projekt.dll
+C:\Users\alexc\source\repos\Zweites_Projekt\obj\Debug\net8.0\refint\Zweites_Projekt.dll
+C:\Users\alexc\source\repos\Zweites_Projekt\obj\Debug\net8.0\Zweites_Projekt.pdb
+C:\Users\alexc\source\repos\Zweites_Projekt\obj\Debug\net8.0\Zweites_Projekt.genruntimeconfig.cache
+C:\Users\alexc\source\repos\Zweites_Projekt\obj\Debug\net8.0\ref\Zweites_Projekt.dll

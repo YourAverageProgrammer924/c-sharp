@@ -1,0 +1,14 @@
+C:\Users\alexc\source\repos\Else_If\bin\Debug\net8.0\Else_If.exe
+C:\Users\alexc\source\repos\Else_If\bin\Debug\net8.0\Else_If.deps.json
+C:\Users\alexc\source\repos\Else_If\bin\Debug\net8.0\Else_If.runtimeconfig.json
+C:\Users\alexc\source\repos\Else_If\bin\Debug\net8.0\Else_If.dll
+C:\Users\alexc\source\repos\Else_If\bin\Debug\net8.0\Else_If.pdb
+C:\Users\alexc\source\repos\Else_If\obj\Debug\net8.0\Else_If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\Else_If\obj\Debug\net8.0\Else_If.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\Else_If\obj\Debug\net8.0\Else_If.AssemblyInfo.cs
+C:\Users\alexc\source\repos\Else_If\obj\Debug\net8.0\Else_If.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\Else_If\obj\Debug\net8.0\Else_If.dll
+C:\Users\alexc\source\repos\Else_If\obj\Debug\net8.0\refint\Else_If.dll
+C:\Users\alexc\source\repos\Else_If\obj\Debug\net8.0\Else_If.pdb
+C:\Users\alexc\source\repos\Else_If\obj\Debug\net8.0\Else_If.genruntimeconfig.cache
+C:\Users\alexc\source\repos\Else_If\obj\Debug\net8.0\ref\Else_If.dll

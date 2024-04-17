@@ -1,0 +1,14 @@
+C:\Users\alexc\source\repos\FuenftesProjekt\bin\Debug\net8.0\FuenftesProjekt.exe
+C:\Users\alexc\source\repos\FuenftesProjekt\bin\Debug\net8.0\FuenftesProjekt.deps.json
+C:\Users\alexc\source\repos\FuenftesProjekt\bin\Debug\net8.0\FuenftesProjekt.runtimeconfig.json
+C:\Users\alexc\source\repos\FuenftesProjekt\bin\Debug\net8.0\FuenftesProjekt.dll
+C:\Users\alexc\source\repos\FuenftesProjekt\bin\Debug\net8.0\FuenftesProjekt.pdb
+C:\Users\alexc\source\repos\FuenftesProjekt\obj\Debug\net8.0\FuenftesProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\FuenftesProjekt\obj\Debug\net8.0\FuenftesProjekt.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\FuenftesProjekt\obj\Debug\net8.0\FuenftesProjekt.AssemblyInfo.cs
+C:\Users\alexc\source\repos\FuenftesProjekt\obj\Debug\net8.0\FuenftesProjekt.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\FuenftesProjekt\obj\Debug\net8.0\FuenftesProjekt.dll
+C:\Users\alexc\source\repos\FuenftesProjekt\obj\Debug\net8.0\refint\FuenftesProjekt.dll
+C:\Users\alexc\source\repos\FuenftesProjekt\obj\Debug\net8.0\FuenftesProjekt.pdb
+C:\Users\alexc\source\repos\FuenftesProjekt\obj\Debug\net8.0\FuenftesProjekt.genruntimeconfig.cache
+C:\Users\alexc\source\repos\FuenftesProjekt\obj\Debug\net8.0\ref\FuenftesProjekt.dll

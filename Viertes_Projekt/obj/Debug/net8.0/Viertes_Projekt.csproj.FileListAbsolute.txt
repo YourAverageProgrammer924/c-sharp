@@ -1,0 +1,14 @@
+C:\Users\alexc\source\repos\Viertes_Projekt\bin\Debug\net8.0\Viertes_Projekt.exe
+C:\Users\alexc\source\repos\Viertes_Projekt\bin\Debug\net8.0\Viertes_Projekt.deps.json
+C:\Users\alexc\source\repos\Viertes_Projekt\bin\Debug\net8.0\Viertes_Projekt.runtimeconfig.json
+C:\Users\alexc\source\repos\Viertes_Projekt\bin\Debug\net8.0\Viertes_Projekt.dll
+C:\Users\alexc\source\repos\Viertes_Projekt\bin\Debug\net8.0\Viertes_Projekt.pdb
+C:\Users\alexc\source\repos\Viertes_Projekt\obj\Debug\net8.0\Viertes_Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\Viertes_Projekt\obj\Debug\net8.0\Viertes_Projekt.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\Viertes_Projekt\obj\Debug\net8.0\Viertes_Projekt.AssemblyInfo.cs
+C:\Users\alexc\source\repos\Viertes_Projekt\obj\Debug\net8.0\Viertes_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\Viertes_Projekt\obj\Debug\net8.0\Viertes_Projekt.dll
+C:\Users\alexc\source\repos\Viertes_Projekt\obj\Debug\net8.0\refint\Viertes_Projekt.dll
+C:\Users\alexc\source\repos\Viertes_Projekt\obj\Debug\net8.0\Viertes_Projekt.pdb
+C:\Users\alexc\source\repos\Viertes_Projekt\obj\Debug\net8.0\Viertes_Projekt.genruntimeconfig.cache
+C:\Users\alexc\source\repos\Viertes_Projekt\obj\Debug\net8.0\ref\Viertes_Projekt.dll

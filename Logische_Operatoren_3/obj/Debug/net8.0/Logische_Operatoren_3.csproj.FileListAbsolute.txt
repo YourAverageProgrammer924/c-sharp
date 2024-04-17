@@ -1,0 +1,14 @@
+C:\Users\alexc\source\repos\Logische_Operatoren_3\bin\Debug\net8.0\Logische_Operatoren_3.exe
+C:\Users\alexc\source\repos\Logische_Operatoren_3\bin\Debug\net8.0\Logische_Operatoren_3.deps.json
+C:\Users\alexc\source\repos\Logische_Operatoren_3\bin\Debug\net8.0\Logische_Operatoren_3.runtimeconfig.json
+C:\Users\alexc\source\repos\Logische_Operatoren_3\bin\Debug\net8.0\Logische_Operatoren_3.dll
+C:\Users\alexc\source\repos\Logische_Operatoren_3\bin\Debug\net8.0\Logische_Operatoren_3.pdb
+C:\Users\alexc\source\repos\Logische_Operatoren_3\obj\Debug\net8.0\Logische_Operatoren_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\Logische_Operatoren_3\obj\Debug\net8.0\Logische_Operatoren_3.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\Logische_Operatoren_3\obj\Debug\net8.0\Logische_Operatoren_3.AssemblyInfo.cs
+C:\Users\alexc\source\repos\Logische_Operatoren_3\obj\Debug\net8.0\Logische_Operatoren_3.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\Logische_Operatoren_3\obj\Debug\net8.0\Logische_Operatoren_3.dll
+C:\Users\alexc\source\repos\Logische_Operatoren_3\obj\Debug\net8.0\refint\Logische_Operatoren_3.dll
+C:\Users\alexc\source\repos\Logische_Operatoren_3\obj\Debug\net8.0\Logische_Operatoren_3.pdb
+C:\Users\alexc\source\repos\Logische_Operatoren_3\obj\Debug\net8.0\Logische_Operatoren_3.genruntimeconfig.cache
+C:\Users\alexc\source\repos\Logische_Operatoren_3\obj\Debug\net8.0\ref\Logische_Operatoren_3.dll

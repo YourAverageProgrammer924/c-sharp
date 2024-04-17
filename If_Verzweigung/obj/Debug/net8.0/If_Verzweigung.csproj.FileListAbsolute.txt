@@ -1,0 +1,14 @@
+C:\Users\alexc\source\repos\If_Verzweigung\bin\Debug\net8.0\If_Verzweigung.exe
+C:\Users\alexc\source\repos\If_Verzweigung\bin\Debug\net8.0\If_Verzweigung.deps.json
+C:\Users\alexc\source\repos\If_Verzweigung\bin\Debug\net8.0\If_Verzweigung.runtimeconfig.json
+C:\Users\alexc\source\repos\If_Verzweigung\bin\Debug\net8.0\If_Verzweigung.dll
+C:\Users\alexc\source\repos\If_Verzweigung\bin\Debug\net8.0\If_Verzweigung.pdb
+C:\Users\alexc\source\repos\If_Verzweigung\obj\Debug\net8.0\If_Verzweigung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\If_Verzweigung\obj\Debug\net8.0\If_Verzweigung.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\If_Verzweigung\obj\Debug\net8.0\If_Verzweigung.AssemblyInfo.cs
+C:\Users\alexc\source\repos\If_Verzweigung\obj\Debug\net8.0\If_Verzweigung.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\If_Verzweigung\obj\Debug\net8.0\If_Verzweigung.dll
+C:\Users\alexc\source\repos\If_Verzweigung\obj\Debug\net8.0\refint\If_Verzweigung.dll
+C:\Users\alexc\source\repos\If_Verzweigung\obj\Debug\net8.0\If_Verzweigung.pdb
+C:\Users\alexc\source\repos\If_Verzweigung\obj\Debug\net8.0\If_Verzweigung.genruntimeconfig.cache
+C:\Users\alexc\source\repos\If_Verzweigung\obj\Debug\net8.0\ref\If_Verzweigung.dll

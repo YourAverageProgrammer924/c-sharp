@@ -1,0 +1,14 @@
+C:\Users\alexc\source\repos\Systemabfrage\bin\Debug\net8.0\Systemabfrage.exe
+C:\Users\alexc\source\repos\Systemabfrage\bin\Debug\net8.0\Systemabfrage.deps.json
+C:\Users\alexc\source\repos\Systemabfrage\bin\Debug\net8.0\Systemabfrage.runtimeconfig.json
+C:\Users\alexc\source\repos\Systemabfrage\bin\Debug\net8.0\Systemabfrage.dll
+C:\Users\alexc\source\repos\Systemabfrage\bin\Debug\net8.0\Systemabfrage.pdb
+C:\Users\alexc\source\repos\Systemabfrage\obj\Debug\net8.0\Systemabfrage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\Systemabfrage\obj\Debug\net8.0\Systemabfrage.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\Systemabfrage\obj\Debug\net8.0\Systemabfrage.AssemblyInfo.cs
+C:\Users\alexc\source\repos\Systemabfrage\obj\Debug\net8.0\Systemabfrage.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\Systemabfrage\obj\Debug\net8.0\Systemabfrage.dll
+C:\Users\alexc\source\repos\Systemabfrage\obj\Debug\net8.0\refint\Systemabfrage.dll
+C:\Users\alexc\source\repos\Systemabfrage\obj\Debug\net8.0\Systemabfrage.pdb
+C:\Users\alexc\source\repos\Systemabfrage\obj\Debug\net8.0\Systemabfrage.genruntimeconfig.cache
+C:\Users\alexc\source\repos\Systemabfrage\obj\Debug\net8.0\ref\Systemabfrage.dll

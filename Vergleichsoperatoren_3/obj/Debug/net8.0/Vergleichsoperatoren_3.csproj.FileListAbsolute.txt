@@ -1,0 +1,14 @@
+C:\Users\alexc\source\repos\Vergleichsoperatoren_3\bin\Debug\net8.0\Vergleichsoperatoren_3.exe
+C:\Users\alexc\source\repos\Vergleichsoperatoren_3\bin\Debug\net8.0\Vergleichsoperatoren_3.deps.json
+C:\Users\alexc\source\repos\Vergleichsoperatoren_3\bin\Debug\net8.0\Vergleichsoperatoren_3.runtimeconfig.json
+C:\Users\alexc\source\repos\Vergleichsoperatoren_3\bin\Debug\net8.0\Vergleichsoperatoren_3.dll
+C:\Users\alexc\source\repos\Vergleichsoperatoren_3\bin\Debug\net8.0\Vergleichsoperatoren_3.pdb
+C:\Users\alexc\source\repos\Vergleichsoperatoren_3\obj\Debug\net8.0\Vergleichsoperatoren_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\Vergleichsoperatoren_3\obj\Debug\net8.0\Vergleichsoperatoren_3.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\Vergleichsoperatoren_3\obj\Debug\net8.0\Vergleichsoperatoren_3.AssemblyInfo.cs
+C:\Users\alexc\source\repos\Vergleichsoperatoren_3\obj\Debug\net8.0\Vergleichsoperatoren_3.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\Vergleichsoperatoren_3\obj\Debug\net8.0\Vergleichsoperatoren_3.dll
+C:\Users\alexc\source\repos\Vergleichsoperatoren_3\obj\Debug\net8.0\refint\Vergleichsoperatoren_3.dll
+C:\Users\alexc\source\repos\Vergleichsoperatoren_3\obj\Debug\net8.0\Vergleichsoperatoren_3.pdb
+C:\Users\alexc\source\repos\Vergleichsoperatoren_3\obj\Debug\net8.0\Vergleichsoperatoren_3.genruntimeconfig.cache
+C:\Users\alexc\source\repos\Vergleichsoperatoren_3\obj\Debug\net8.0\ref\Vergleichsoperatoren_3.dll

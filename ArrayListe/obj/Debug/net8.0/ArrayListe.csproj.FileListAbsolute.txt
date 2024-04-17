@@ -1,0 +1,14 @@
+C:\Users\alexc\source\repos\ArrayListe\bin\Debug\net8.0\ArrayListe.exe
+C:\Users\alexc\source\repos\ArrayListe\bin\Debug\net8.0\ArrayListe.deps.json
+C:\Users\alexc\source\repos\ArrayListe\bin\Debug\net8.0\ArrayListe.runtimeconfig.json
+C:\Users\alexc\source\repos\ArrayListe\bin\Debug\net8.0\ArrayListe.dll
+C:\Users\alexc\source\repos\ArrayListe\bin\Debug\net8.0\ArrayListe.pdb
+C:\Users\alexc\source\repos\ArrayListe\obj\Debug\net8.0\ArrayListe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\ArrayListe\obj\Debug\net8.0\ArrayListe.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\ArrayListe\obj\Debug\net8.0\ArrayListe.AssemblyInfo.cs
+C:\Users\alexc\source\repos\ArrayListe\obj\Debug\net8.0\ArrayListe.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\ArrayListe\obj\Debug\net8.0\ArrayListe.dll
+C:\Users\alexc\source\repos\ArrayListe\obj\Debug\net8.0\refint\ArrayListe.dll
+C:\Users\alexc\source\repos\ArrayListe\obj\Debug\net8.0\ArrayListe.pdb
+C:\Users\alexc\source\repos\ArrayListe\obj\Debug\net8.0\ArrayListe.genruntimeconfig.cache
+C:\Users\alexc\source\repos\ArrayListe\obj\Debug\net8.0\ref\ArrayListe.dll

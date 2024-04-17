@@ -1,0 +1,14 @@
+C:\Users\alexc\source\repos\Drittes_Projekt\bin\Debug\net8.0\Drittes_Projekt.exe
+C:\Users\alexc\source\repos\Drittes_Projekt\bin\Debug\net8.0\Drittes_Projekt.deps.json
+C:\Users\alexc\source\repos\Drittes_Projekt\bin\Debug\net8.0\Drittes_Projekt.runtimeconfig.json
+C:\Users\alexc\source\repos\Drittes_Projekt\bin\Debug\net8.0\Drittes_Projekt.dll
+C:\Users\alexc\source\repos\Drittes_Projekt\bin\Debug\net8.0\Drittes_Projekt.pdb
+C:\Users\alexc\source\repos\Drittes_Projekt\obj\Debug\net8.0\Drittes_Projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\Drittes_Projekt\obj\Debug\net8.0\Drittes_Projekt.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\Drittes_Projekt\obj\Debug\net8.0\Drittes_Projekt.AssemblyInfo.cs
+C:\Users\alexc\source\repos\Drittes_Projekt\obj\Debug\net8.0\Drittes_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\Drittes_Projekt\obj\Debug\net8.0\Drittes_Projekt.dll
+C:\Users\alexc\source\repos\Drittes_Projekt\obj\Debug\net8.0\refint\Drittes_Projekt.dll
+C:\Users\alexc\source\repos\Drittes_Projekt\obj\Debug\net8.0\Drittes_Projekt.pdb
+C:\Users\alexc\source\repos\Drittes_Projekt\obj\Debug\net8.0\Drittes_Projekt.genruntimeconfig.cache
+C:\Users\alexc\source\repos\Drittes_Projekt\obj\Debug\net8.0\ref\Drittes_Projekt.dll

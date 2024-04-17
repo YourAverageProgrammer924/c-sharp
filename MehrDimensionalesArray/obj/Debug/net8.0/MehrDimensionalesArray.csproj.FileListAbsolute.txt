@@ -1,0 +1,14 @@
+C:\Users\alexc\source\repos\MehrDimensionalesArray\bin\Debug\net8.0\MehrDimensionalesArray.exe
+C:\Users\alexc\source\repos\MehrDimensionalesArray\bin\Debug\net8.0\MehrDimensionalesArray.deps.json
+C:\Users\alexc\source\repos\MehrDimensionalesArray\bin\Debug\net8.0\MehrDimensionalesArray.runtimeconfig.json
+C:\Users\alexc\source\repos\MehrDimensionalesArray\bin\Debug\net8.0\MehrDimensionalesArray.dll
+C:\Users\alexc\source\repos\MehrDimensionalesArray\bin\Debug\net8.0\MehrDimensionalesArray.pdb
+C:\Users\alexc\source\repos\MehrDimensionalesArray\obj\Debug\net8.0\MehrDimensionalesArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\MehrDimensionalesArray\obj\Debug\net8.0\MehrDimensionalesArray.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\MehrDimensionalesArray\obj\Debug\net8.0\MehrDimensionalesArray.AssemblyInfo.cs
+C:\Users\alexc\source\repos\MehrDimensionalesArray\obj\Debug\net8.0\MehrDimensionalesArray.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\MehrDimensionalesArray\obj\Debug\net8.0\MehrDimensionalesArray.dll
+C:\Users\alexc\source\repos\MehrDimensionalesArray\obj\Debug\net8.0\refint\MehrDimensionalesArray.dll
+C:\Users\alexc\source\repos\MehrDimensionalesArray\obj\Debug\net8.0\MehrDimensionalesArray.pdb
+C:\Users\alexc\source\repos\MehrDimensionalesArray\obj\Debug\net8.0\MehrDimensionalesArray.genruntimeconfig.cache
+C:\Users\alexc\source\repos\MehrDimensionalesArray\obj\Debug\net8.0\ref\MehrDimensionalesArray.dll

@@ -1,0 +1,14 @@
+C:\Users\alexc\source\repos\Datenstrukturen_Aufgabe2\bin\Debug\net8.0\Datenstrukturen_Aufgabe2.exe
+C:\Users\alexc\source\repos\Datenstrukturen_Aufgabe2\bin\Debug\net8.0\Datenstrukturen_Aufgabe2.deps.json
+C:\Users\alexc\source\repos\Datenstrukturen_Aufgabe2\bin\Debug\net8.0\Datenstrukturen_Aufgabe2.runtimeconfig.json
+C:\Users\alexc\source\repos\Datenstrukturen_Aufgabe2\bin\Debug\net8.0\Datenstrukturen_Aufgabe2.dll
+C:\Users\alexc\source\repos\Datenstrukturen_Aufgabe2\bin\Debug\net8.0\Datenstrukturen_Aufgabe2.pdb
+C:\Users\alexc\source\repos\Datenstrukturen_Aufgabe2\obj\Debug\net8.0\Datenstrukturen_Aufgabe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\Datenstrukturen_Aufgabe2\obj\Debug\net8.0\Datenstrukturen_Aufgabe2.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\Datenstrukturen_Aufgabe2\obj\Debug\net8.0\Datenstrukturen_Aufgabe2.AssemblyInfo.cs
+C:\Users\alexc\source\repos\Datenstrukturen_Aufgabe2\obj\Debug\net8.0\Datenstrukturen_Aufgabe2.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\Datenstrukturen_Aufgabe2\obj\Debug\net8.0\Datenstrukturen_Aufgabe2.dll
+C:\Users\alexc\source\repos\Datenstrukturen_Aufgabe2\obj\Debug\net8.0\refint\Datenstrukturen_Aufgabe2.dll
+C:\Users\alexc\source\repos\Datenstrukturen_Aufgabe2\obj\Debug\net8.0\Datenstrukturen_Aufgabe2.pdb
+C:\Users\alexc\source\repos\Datenstrukturen_Aufgabe2\obj\Debug\net8.0\Datenstrukturen_Aufgabe2.genruntimeconfig.cache
+C:\Users\alexc\source\repos\Datenstrukturen_Aufgabe2\obj\Debug\net8.0\ref\Datenstrukturen_Aufgabe2.dll
