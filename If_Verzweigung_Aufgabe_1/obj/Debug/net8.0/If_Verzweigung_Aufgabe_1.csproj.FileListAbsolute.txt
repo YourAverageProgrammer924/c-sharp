@@ -1,0 +1,15 @@
+C:\Users\alexc\source\repos\If_Verzweigung_Aufgabe_1\obj\Debug\net8.0\If_Verzweigung_Aufgabe_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexc\source\repos\If_Verzweigung_Aufgabe_1\obj\Debug\net8.0\If_Verzweigung_Aufgabe_1.AssemblyInfoInputs.cache
+C:\Users\alexc\source\repos\If_Verzweigung_Aufgabe_1\obj\Debug\net8.0\If_Verzweigung_Aufgabe_1.AssemblyInfo.cs
+C:\Users\alexc\source\repos\If_Verzweigung_Aufgabe_1\obj\Debug\net8.0\If_Verzweigung_Aufgabe_1.csproj.CoreCompileInputs.cache
+C:\Users\alexc\source\repos\If_Verzweigung_Aufgabe_1\obj\Debug\net8.0\If_Verzweigung_Aufgabe_1.sourcelink.json
+C:\Users\alexc\source\repos\If_Verzweigung_Aufgabe_1\bin\Debug\net8.0\If_Verzweigung_Aufgabe_1.exe
+C:\Users\alexc\source\repos\If_Verzweigung_Aufgabe_1\bin\Debug\net8.0\If_Verzweigung_Aufgabe_1.deps.json
+C:\Users\alexc\source\repos\If_Verzweigung_Aufgabe_1\bin\Debug\net8.0\If_Verzweigung_Aufgabe_1.runtimeconfig.json
+C:\Users\alexc\source\repos\If_Verzweigung_Aufgabe_1\bin\Debug\net8.0\If_Verzweigung_Aufgabe_1.dll
+C:\Users\alexc\source\repos\If_Verzweigung_Aufgabe_1\bin\Debug\net8.0\If_Verzweigung_Aufgabe_1.pdb
+C:\Users\alexc\source\repos\If_Verzweigung_Aufgabe_1\obj\Debug\net8.0\If_Verzweigung_Aufgabe_1.dll
+C:\Users\alexc\source\repos\If_Verzweigung_Aufgabe_1\obj\Debug\net8.0\refint\If_Verzweigung_Aufgabe_1.dll
+C:\Users\alexc\source\repos\If_Verzweigung_Aufgabe_1\obj\Debug\net8.0\If_Verzweigung_Aufgabe_1.pdb
+C:\Users\alexc\source\repos\If_Verzweigung_Aufgabe_1\obj\Debug\net8.0\If_Verzweigung_Aufgabe_1.genruntimeconfig.cache
+C:\Users\alexc\source\repos\If_Verzweigung_Aufgabe_1\obj\Debug\net8.0\ref\If_Verzweigung_Aufgabe_1.dll

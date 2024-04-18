@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "If_Verzweigung_Aufgabe_1/1.0.0": {
+        "runtime": {
+          "If_Verzweigung_Aufgabe_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "If_Verzweigung_Aufgabe_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
